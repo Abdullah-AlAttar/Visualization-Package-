@@ -1,0 +1,4 @@
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Release\Testing_openTK_again.Form2.resources
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Release\Testing_openTK_again.Properties.Resources.resources
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Release\Visualisation Main.csproj.GenerateResource.Cache
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Release\Visualisation Main.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\Testing openTK again.exe
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\Testing openTK again.pdb
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\AForge.dll
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\AForge.Video.dll
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\MeshLoader.dll
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\MeshLoader.pdb
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\AForge.xml
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\bin\Debug\AForge.Video.xml
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Visualisation Main.csprojResolveAssemblyReference.cache
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Testing_openTK_again.Form2.resources
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Testing_openTK_again.Properties.Resources.resources
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Visualisation Main.csproj.GenerateResource.Cache
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Visualisation Main.csproj.CoreCompileInputs.cache
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Testing openTK again.exe
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Testing openTK again.pdb
+C:\Users\runmd\Documents\Visual Studio 2017\Projects\Visuali Refactored\Testing openTK again\obj\Debug\Visualisation Main.csproj.CopyComplete
